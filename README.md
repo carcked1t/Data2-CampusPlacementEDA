@@ -27,11 +27,16 @@ Personally identifiable information was removed during analysis.
 
 ## Project Structure
 
-project2/
+project/
+
 ├── data/ # Raw dataset
+
 ├── notebooks/ # Step-by-step analysis notebooks
+
 ├── visuals/ # Final presentation-ready plots
+
 ├── insights.md # Business and decision-focused insights
+
 └── README.md
 
 
