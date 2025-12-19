@@ -1,0 +1,402 @@
+gender,10th_board,10th_marks,12th_board,12th_marks,stream,cgpa,internshipsy_n,trainingy_n,backlog_in_5th_sem,innovative_projecty_n,communication_level,technical_coursey_n,placementy_n,cgpa_normalized
+Female,State Board,96.7,CBSE,70.2,Mechanical Engineering,7.37,0,1,0,0,3,1.0,0,73.7
+Female,WBBSE,96.2,WBCHSE,90.6,Electronics and Communication Engineering,9.35,0,0,0,1,4,0.0,0,93.5
+Male,State Board,97.5,CBSE,69.6,Information Technology,7.84,0,1,0,1,3,1.0,1,78.4
+Female,CBSE,96.9,Other state Board,77.6,Computer Science in AIML,7.87,1,0,1,1,2,1.0,0,78.7
+Female,ICSE,99.1,CBSE,62.8,Computer Science and Engineering,9.26,1,1,0,1,1,1.0,0,92.6
+Male,CBSE,85.5,CBSE,86.0,Computer Science and Engineering,9.2,1,0,0,1,2,1.0,0,92.0
+Male,State Board,98.2,CBSE,83.4,Computer Science and Engineering,8.83,1,1,1,1,2,1.0,0,88.3
+Male,State Board,79.4,Diploma,82.1,Production Engineering,7.52,1,0,0,1,3,1.0,1,75.19999999999999
+Male,WBBSE,88.0,Other state Board,83.2,Computer Science in AIML,7.06,0,0,0,1,3,1.0,1,70.6
+Female,CBSE,84.3,CBSE,70.9,Civil Engineering,7.34,0,0,0,0,3,1.0,0,73.4
+Male,ICSE,84.1,Other state Board,67.9,Computer Science and Engineering,7.12,0,0,1,0,1,0.0,0,71.2
+Female,State Board,97.8,ISE,95.0,Computer Science and Engineering,8.87,1,1,0,1,4,1.0,0,88.69999999999999
+Male,ICSE,83.0,CBSE,79.8,Computer Science and Engineering,7.13,1,0,0,0,4,1.0,0,71.3
+Female,CBSE,78.5,Other state Board,62.0,Mechanical Engineering,7.18,1,1,0,1,1,1.0,1,71.8
+Male,WBBSE,95.9,CBSE,73.2,Information Technology,9.14,1,1,1,1,1,1.0,0,91.4
+Male,WBBSE,75.0,Other state Board,68.9,Electronics and Communication Engineering,7.58,0,0,0,1,4,1.0,1,75.8
+Female,WBBSE,89.8,CBSE,88.6,Computer Science and Engineering,7.66,1,1,0,1,5,1.0,1,76.6
+Male,ICSE,93.6,WBCHSE,87.6,Computer Science and Engineering,8.92,1,0,0,0,3,0.0,0,89.2
+Male,CBSE,87.4,ISE,80.2,Computer Science and Engineering,7.17,1,1,0,0,4,1.0,0,71.7
+Female,WBBSE,96.3,CBSE,78.0,Electrical Engineering,7.51,0,1,0,1,1,1.0,1,75.1
+Male,State Board,82.4,Other state Board,77.3,Mechanical Engineering,8.97,0,1,0,1,2,1.0,1,89.7
+Female,ICSE,87.6,ISE,88.9,Electrical Engineering,8.79,0,0,0,0,4,1.0,0,87.89999999999999
+Male,ICSE,76.9,CBSE,68.2,Electrical Engineering,8.1,1,1,0,1,5,1.0,1,81.0
+Male,ICSE,72.8,Other state Board,87.2,Electrical Engineering,7.08,0,0,1,0,4,1.0,0,70.8
+Female,State Board,98.2,CBSE,68.1,Civil Engineering,7.79,0,1,0,1,1,1.0,1,77.9
+Female,WBBSE,89.3,CBSE,71.2,Electronics and Communication Engineering,7.78,1,1,0,1,1,1.0,1,77.8
+Male,CBSE,90.2,CBSE,77.2,Civil Engineering,7.22,0,0,0,1,1,1.0,1,72.2
+Female,WBBSE,77.9,CBSE,80.1,Computer Science and Engineering,8.84,1,1,1,0,4,1.0,0,88.4
+Female,WBBSE,98.5,Other state Board,84.2,Computer Science and Engineering,9.37,1,0,0,1,4,1.0,0,93.69999999999999
+Female,WBBSE,72.2,WBCHSE,93.7,Electronics and Communication Engineering,8.98,1,1,0,0,5,0.0,0,89.80000000000001
+Male,ICSE,93.4,ISE,92.2,Computer Science and Engineering,8.85,1,0,0,1,4,1.0,1,88.5
+Female,ICSE,85.6,ISE,86.4,Computer Science and Engineering,7.8,1,1,0,1,4,0.0,0,78.0
+Male,ICSE,94.6,ISE,79.6,Computer Science in Data Science,9.26,1,0,0,1,3,1.0,1,92.6
+Female,WBBSE,79.6,CBSE,74.1,Mechanical Engineering,7.01,0,1,0,1,5,1.0,1,70.1
+Male,CBSE,73.8,CBSE,73.4,Civil Engineering,8.87,0,1,0,1,5,0.0,0,88.69999999999999
+Female,CBSE,77.8,WBCHSE,94.3,Computer Science and Engineering,9.0,1,1,0,0,4,0.0,0,90.0
+Male,State Board,77.6,WBCHSE,80.9,Information Technology,7.74,0,0,0,1,3,1.0,1,77.4
+Female,CBSE,71.0,ISE,67.1,Information Technology,8.48,1,1,0,1,3,1.0,1,84.80000000000001
+Male,CBSE,94.1,CBSE,66.4,Electronics and Communication Engineering,7.05,0,1,1,1,2,1.0,0,70.5
+Female,ICSE,72.1,CBSE,70.2,Computer Science in AIML,7.16,0,0,0,1,2,1.0,1,71.6
+Female,ICSE,82.6,WBCHSE,67.3,Computer Science and Engineering,7.95,1,1,0,1,3,1.0,1,79.5
+Male,WBBSE,71.9,WBCHSE,67.4,Electrical and Electronics Engineering,7.88,0,0,0,1,1,1.0,1,78.8
+Female,CBSE,80.5,ISE,74.2,Electronics and Communication Engineering,8.86,1,1,1,1,2,1.0,0,88.6
+Female,State Board,87.2,WBCHSE,80.4,Electronics and Communication Engineering,7.65,1,1,1,0,4,1.0,0,76.5
+Female,CBSE,70.3,Other state Board,79.0,Computer Science and Engineering,9.34,1,1,0,1,2,1.0,0,93.4
+Male,State Board,75.2,WBCHSE,82.5,Mechanical Engineering,8.52,0,0,0,0,5,0.0,0,85.19999999999999
+Male,State Board,78.9,ISE,91.2,Electrical Engineering,8.65,0,1,0,1,1,1.0,1,86.5
+Female,WBBSE,86.3,Other state Board,62.6,Computer Science in AIML,7.1,0,1,0,1,1,1.0,1,71.0
+Female,State Board,96.9,CBSE,89.8,Civil Engineering,7.09,1,1,1,1,3,1.0,0,70.9
+Male,ICSE,75.9,CBSE,85.4,Computer Science in AIML,7.64,0,1,1,1,4,1.0,0,76.39999999999999
+Female,CBSE,99.6,ISE,81.7,Computer Science and Engineering,8.57,1,0,0,0,3,0.0,0,85.7
+Female,CBSE,95.0,CBSE,92.5,Information Technology,7.69,1,1,0,0,5,1.0,0,76.9
+Female,CBSE,72.0,CBSE,65.1,Civil Engineering,7.57,0,1,1,1,1,0.0,0,75.7
+Female,ICSE,88.6,WBCHSE,73.2,Computer Science and Engineering,9.23,1,1,0,1,3,1.0,1,92.30000000000001
+Male,CBSE,80.7,Other state Board,76.1,Computer Science in AIML,9.51,1,0,1,1,1,1.0,0,95.1
+Male,CBSE,95.0,CBSE,90.0,IMsc Maths and Computing,8.15,1,0,0,1,4,1.0,0,81.5
+Female,State Board,92.0,Other state Board,67.4,Mechanical Engineering,9.35,0,1,0,1,2,1.0,1,93.5
+Male,ICSE,84.4,Other state Board,87.6,Computer Science and Design,8.58,1,0,0,1,3,1.0,1,85.8
+Male,WBBSE,86.6,WBCHSE,84.4,Computer Science and Design,7.13,0,0,0,1,3,1.0,1,71.3
+Male,CBSE,96.4,CBSE,97.0,Electronics and Communication and Engineeing,8.91,0,1,1,0,3,1.0,0,89.1
+Female,ICSE,76.1,Other state Board,60.4,Electronics and Communication Engineering,8.94,1,0,0,1,1,1.0,1,89.39999999999999
+Male,CBSE,75.6,Other state Board,93.8,Electrical Engineering,8.99,1,0,0,1,4,1.0,1,89.9
+Male,WBBSE,99.9,CBSE,86.9,Mechanical Engineering,7.6,0,1,0,1,4,1.0,1,76.0
+Male,CBSE,75.0,CBSE,48.0,Information Technology,5.75,0,0,1,0,3,1.0,0,57.5
+Female,State Board,79.6,WBCHSE,61.7,Computer Science in Data Science,7.92,0,1,1,1,4,1.0,0,79.2
+Male,State Board,91.1,ISE,74.2,Chemical Engineering,8.37,0,0,0,1,2,1.0,1,83.69999999999999
+Female,CBSE,86.4,ISE,85.1,Electronics and Communication Engineering,9.56,0,0,0,1,3,1.0,0,95.60000000000001
+Female,State Board,70.4,ISE,87.2,Civil Engineering,9.35,0,0,0,1,1,1.0,1,93.5
+Male,ICSE,86.7,Other state Board,93.0,Computer Science and Engineering,7.45,1,1,0,1,1,1.0,1,74.5
+Female,CBSE,72.2,CBSE,74.8,Computer Science in AIML,8.02,1,1,0,1,2,1.0,1,80.19999999999999
+Male,CBSE,75.0,CBSE,68.0,Computer Science and Engineering,8.2,1,0,1,1,4,1.0,1,82.0
+Female,CBSE,95.0,CBSE,86.4,Information Technology,9.46,1,1,0,1,3,1.0,0,94.60000000000001
+Female,State Board,88.1,ISE,60.2,Electrical and Electronics Engineering,8.61,0,0,0,1,2,1.0,1,86.1
+Female,ICSE,94.3,ISE,72.3,Electrical Engineering,8.53,0,1,0,1,2,1.0,1,85.3
+Male,WBBSE,85.0,WBCHSE,87.0,Information Technology,9.3,0,1,0,1,3,1.0,1,93.0
+Male,ICSE,82.8,ISE,87.2,Electrical and Electronics Engineering,8.49,0,1,0,0,4,1.0,0,84.9
+Male,WBBSE,64.0,WBCHSE,68.0,Computer Science and Design,7.5,0,1,0,1,4,1.0,1,75.0
+Female,ICSE,94.0,ISE,87.2,Electronics and Communication Engineering,9.31,1,0,0,1,5,1.0,1,93.10000000000001
+Female,WBBSE,71.8,WBCHSE,93.3,Mechanical Engineering,9.01,1,0,0,0,2,0.0,0,90.1
+Male,State Board,76.0,CBSE,60.3,Chemical Engineering,7.84,0,0,1,1,1,1.0,0,78.4
+Male,State Board,72.2,CBSE,77.0,Information Technology,8.27,1,1,1,1,3,1.0,0,82.69999999999999
+Female,ICSE,96.5,ISE,86.8,Electrical Engineering,9.29,0,1,0,1,3,1.0,1,92.89999999999999
+Female,WBBSE,86.9,Other state Board,87.4,Chemical Engineering,9.02,0,1,0,1,4,0.0,0,90.19999999999999
+Female,ICSE,82.4,Other state Board,88.6,Computer Science and Engineering,9.26,1,0,0,0,1,0.0,0,92.6
+Male,ICSE,74.9,Other state Board,81.5,Information Technology,7.32,1,0,0,1,5,1.0,1,73.2
+Female,WBBSE,75.0,Other state Board,81.1,Computer Science and Engineering,8.84,1,0,1,0,2,1.0,0,88.4
+Female,CBSE,87.4,CBSE,81.6,Information Technology,7.03,0,1,0,1,2,1.0,0,70.3
+Female,CBSE,73.9,CBSE,63.9,Computer Science in Data Science,7.92,1,0,0,1,4,1.0,1,79.2
+Male,WBBSE,82.1,ISE,72.1,Electronics and Communication Engineering,8.11,1,0,0,1,4,1.0,1,81.1
+Male,ICSE,70.1,Other state Board,74.7,Electronics and Communication Engineering,8.46,1,1,0,0,1,0.0,0,84.60000000000001
+Female,State Board,82.7,ISE,92.2,Computer Science and Design,9.38,1,0,0,1,2,1.0,1,93.80000000000001
+Female,ICSE,81.9,WBCHSE,84.5,Computer Science and Engineering,8.34,1,1,1,0,1,0.0,0,83.4
+Female,CBSE,88.7,ISE,65.9,Electrical Engineering,7.15,0,0,0,1,5,0.0,0,71.5
+Female,CBSE,93.5,Other state Board,69.8,Computer Science and Design,8.8,1,0,1,1,3,1.0,0,88.0
+Female,CBSE,98.9,CBSE,94.1,Electronics and Communication Engineering,9.3,1,0,0,0,5,1.0,0,93.0
+Male,ICSE,77.4,ISE,67.1,Computer Science and Design,8.95,0,1,0,0,5,1.0,0,89.5
+Male,State Board,94.6,CBSE,88.3,Electronics and Communication Engineering,7.44,1,0,0,1,1,1.0,1,74.4
+Male,CBSE,82.3,ISE,65.9,Electrical and Electronics Engineering,7.78,0,1,0,1,4,1.0,1,77.8
+Female,CBSE,85.6,WBCHSE,68.2,Computer Science and Engineering,9.2,1,1,0,0,4,1.0,0,92.0
+Female,WBBSE,88.2,ISE,71.5,Electronics and Communication Engineering,9.1,1,1,0,1,5,1.0,1,91.0
+Female,WBBSE,96.8,Other state Board,94.9,Information Technology,7.82,1,0,1,0,2,1.0,0,78.2
+Female,CBSE,86.7,Other state Board,63.9,Electronics and Communication Engineering,7.29,1,1,0,1,2,0.0,0,72.9
+Female,ICSE,72.6,WBCHSE,91.6,Computer Science and Design,8.84,1,1,0,0,2,1.0,0,88.4
+Female,ICSE,94.7,Other state Board,87.3,Computer Science and Engineering,7.67,1,0,0,0,2,0.0,0,76.7
+Male,ICSE,99.6,Other state Board,94.0,Electrical and Electronics Engineering,7.18,0,1,1,1,5,0.0,0,71.8
+Female,WBBSE,81.4,ISE,68.1,Electronics and Communication Engineering,7.57,1,1,0,1,2,0.0,0,75.7
+Male,ICSE,77.7,CBSE,79.2,Electrical Engineering,7.15,0,0,1,0,5,1.0,0,71.5
+Male,WBBSE,80.2,Other state Board,91.8,Computer Science and Engineering,8.97,1,0,0,1,5,1.0,1,89.7
+Female,WBBSE,89.6,WBCHSE,78.0,Civil Engineering,8.57,1,1,0,1,1,1.0,1,85.7
+Female,CBSE,71.4,ISE,92.3,Computer Science and Engineering,7.42,0,0,1,1,4,1.0,0,74.2
+Male,ICSE,87.0,CBSE,75.0,Computer Science and Engineering,9.47,1,1,0,1,3,0.0,0,94.7
+Female,State Board,84.7,WBCHSE,84.4,Information Technology,7.25,0,1,0,0,1,0.0,0,72.5
+Male,WBBSE,72.0,CBSE,64.4,Information Technology,8.33,1,1,0,1,5,1.0,1,83.3
+Male,ICSE,74.8,ISE,83.9,Computer Science in AIML,9.17,1,1,0,1,2,1.0,1,91.7
+Male,WBBSE,70.0,WBCHSE,78.0,Computer Science and Design,8.9,1,0,0,1,2,1.0,1,89.0
+Female,WBBSE,75.9,WBCHSE,85.2,Computer Science and Design,8.43,0,1,0,1,1,1.0,1,84.3
+Female,State Board,72.4,CBSE,67.6,Civil Engineering,8.12,0,0,0,1,4,1.0,1,81.19999999999999
+Female,WBBSE,96.2,CBSE,60.1,Civil Engineering,7.49,0,1,0,1,1,1.0,1,74.9
+Male,State Board,93.0,Other state Board,92.0,Computer Science and Engineering,90.0,1,0,0,0,3,1.0,0,90.0
+Male,State Board,70.0,ISE,94.8,Computer Science in AIML,9.48,1,0,0,1,5,1.0,1,94.80000000000001
+Female,ICSE,75.6,WBCHSE,68.9,Electrical and Electronics Engineering,8.95,0,0,1,1,3,0.0,0,89.5
+Male,WBBSE,60.0,WBCHSE,69.0,Computer Science and Design,9.0,0,0,0,0,3,0.0,1,90.0
+Male,CBSE,85.3,Other state Board,72.8,Mechanical Engineering,8.85,1,1,0,1,2,1.0,1,88.5
+Female,ICSE,89.2,CBSE,82.7,Computer Science and Design,9.37,1,0,0,1,1,1.0,1,93.69999999999999
+Female,WBBSE,94.9,WBCHSE,84.7,Electrical Engineering,8.59,0,0,0,1,3,0.0,0,85.9
+Male,CBSE,87.0,CBSE,87.8,Electrical Engineering,8.15,1,0,1,1,4,1.0,0,81.5
+Female,CBSE,98.7,CBSE,60.9,Electronics and Communication Engineering,7.19,1,0,0,1,4,0.0,0,71.9
+Male,CBSE,84.6,ISE,79.1,Electrical Engineering,9.44,0,0,0,1,1,1.0,1,94.39999999999999
+Male,State Board,80.4,CBSE,65.6,Mechanical Engineering,7.97,0,0,0,1,4,1.0,1,79.7
+Male,State Board,80.3,WBCHSE,74.9,Mechanical Engineering,9.12,1,0,1,1,4,1.0,0,91.19999999999999
+Female,ICSE,95.4,Other state Board,65.8,Civil Engineering,7.42,0,1,1,1,4,1.0,0,74.2
+Female,State Board,87.5,Other state Board,78.9,Civil Engineering,8.46,0,0,0,0,4,1.0,0,84.60000000000001
+Male,ICSE,91.8,WBCHSE,89.5,Information Technology,8.47,1,0,0,1,2,1.0,1,84.7
+Female,ICSE,95.4,WBCHSE,93.0,Civil Engineering,8.58,0,1,0,1,2,1.0,1,85.8
+Male,State Board,96.4,ISE,83.0,Mechanical Engineering,7.17,1,0,0,1,1,1.0,1,71.7
+Female,State Board,79.6,CBSE,87.4,Electrical and Electronics Engineering,8.54,0,1,0,1,1,1.0,0,85.39999999999999
+Female,State Board,100.0,WBCHSE,93.1,Electrical and Electronics Engineering,8.34,0,0,0,1,4,1.0,1,83.4
+Female,WBBSE,70.5,CBSE,82.9,Electrical and Electronics Engineering,9.32,1,1,0,1,2,1.0,1,93.2
+Male,WBBSE,70.0,WBBSE,80.0,Computer Science and Engineering,9.1,0,1,1,1,3,1.0,1,91.0
+Male,State Board,86.8,CBSE,64.6,Electronics and Communication Engineering,9.0,1,1,1,1,1,0.0,0,90.0
+Male,ICSE,91.4,ISE,92.2,Computer Science and Engineering,7.96,1,0,0,1,4,1.0,1,79.6
+Male,CBSE,70.4,ISE,89.3,Electrical Engineering,9.48,0,0,0,1,2,1.0,1,94.80000000000001
+Male,State Board,78.6,CBSE,83.9,Electrical Engineering,7.99,0,1,0,1,2,1.0,1,79.9
+Male,WBBSE,90.5,WBCHSE,61.0,Computer Science in Data Science,9.39,1,1,0,1,4,1.0,1,93.9
+Female,CBSE,91.8,Other state Board,78.7,Computer Science in Data Science,7.62,1,1,0,1,1,1.0,1,76.2
+Male,WBBSE,91.9,WBCHSE,79.9,Computer Science in AIML,7.13,0,1,0,1,5,1.0,1,71.3
+Female,WBBSE,74.1,Other state Board,67.8,Computer Science and Engineering,7.16,0,0,0,1,4,1.0,1,71.6
+Female,ICSE,96.7,WBCHSE,75.7,Computer Science and Design,8.88,1,1,0,1,3,1.0,1,88.80000000000001
+Female,CBSE,81.2,Other state Board,74.7,Computer Science in Data Science,7.09,0,1,1,0,3,1.0,0,70.9
+Female,State Board,80.2,WBCHSE,94.3,Electrical and Electronics Engineering,8.8,0,0,1,1,5,1.0,0,88.0
+Female,CBSE,99.5,CBSE,90.1,Electrical Engineering,7.37,0,0,0,1,1,1.0,1,73.7
+Male,CBSE,83.1,CBSE,61.9,Electronics and Communication Engineering,7.37,1,0,0,1,3,1.0,1,73.7
+Female,CBSE,75.5,WBCHSE,73.8,Computer Science in Data Science,8.55,0,1,0,1,5,1.0,1,85.5
+Male,ICSE,76.3,CBSE,81.8,Information Technology,9.07,1,1,0,1,5,1.0,1,90.7
+Female,ICSE,73.0,WBCHSE,72.8,Electrical Engineering,8.35,0,0,0,0,4,1.0,0,83.5
+Male,State Board,84.2,ISE,78.8,Electronics and Communication Engineering,8.88,1,0,0,1,3,1.0,1,88.80000000000001
+Male,CBSE,90.6,CBSE,69.9,Civil Engineering,8.33,0,0,0,1,2,1.0,1,83.3
+Female,State Board,94.6,Diploma board - MSBTE,91.5,Electronics Engineering,8.3,1,1,1,0,2,1.0,0,83.0
+Female,WBBSE,81.2,WBCHSE,70.0,Electrical and Electronics Engineering,7.36,0,1,0,1,2,1.0,0,73.60000000000001
+Male,CBSE,83.0,CBSE,88.0,Computer Science and Engineering,7.9,0,0,0,0,2,0.0,1,79.0
+Male,CBSE,92.3,CBSE,91.3,Computer Science in AIML,8.78,1,1,1,0,2,1.0,0,87.8
+Female,WBBSE,96.6,WBCHSE,85.0,Electrical Engineering,8.54,1,0,0,1,4,1.0,1,85.39999999999999
+Male,ICSE,71.3,WBCHSE,91.8,Mechanical Engineering,7.52,0,1,0,1,1,1.0,1,75.19999999999999
+Male,CBSE,79.0,CBSE,83.0,Computer Science and Design,9.21,0,0,0,0,4,1.0,0,92.10000000000001
+Female,CBSE,74.0,WBCHSE,92.0,Information Technology,7.34,1,1,0,1,4,1.0,1,73.4
+Male,ICSE,95.2,ISE,60.9,Mechanical Engineering,8.89,1,1,1,0,2,0.0,0,88.9
+Male,WBBSE,32.0,WBCHSE,59.83,Information Technology,9.2,0,0,0,1,2,1.0,0,92.0
+Female,State Board,96.1,CBSE,87.9,Mechanical Engineering,8.34,0,1,0,1,2,1.0,1,83.4
+Male,ICSE,97.5,ISE,62.3,Computer Science in Data Science,8.94,1,1,0,1,4,1.0,0,89.39999999999999
+Female,State Board,89.9,Other state Board,73.1,Electronics and Communication Engineering,7.24,0,0,0,1,3,0.0,0,72.4
+Male,CBSE,90.2,ISE,76.0,Information Technology,9.11,1,1,0,1,2,1.0,1,91.1
+Female,CBSE,85.4,Other state Board,91.7,Electronics and Communication Engineering,7.87,1,1,0,1,5,1.0,0,78.7
+Female,ICSE,92.1,ISE,83.0,Information Technology,7.49,0,0,0,1,2,1.0,1,74.9
+Female,CBSE,74.7,CBSE,93.1,Computer Science and Engineering,8.11,1,1,0,1,3,0.0,0,81.1
+Male,WBBSE,47.0,WBCHSE,88.0,Electrical Engineering,7.9,1,1,1,1,3,1.0,1,79.0
+Female,CBSE,93.4,Other state Board,88.0,Civil Engineering,8.49,0,0,0,1,2,1.0,1,84.9
+Female,State Board,97.5,WBCHSE,60.3,Computer Science and Design,9.29,1,0,0,1,1,1.0,1,92.89999999999999
+Male,WBBSE,91.0,WBCHSE,87.0,Computer Science and Design,8.2,1,1,1,1,3,0.0,1,82.0
+Female,ICSE,74.3,Other state Board,93.1,Mechanical Engineering,8.36,0,0,0,1,5,1.0,1,83.6
+Male,ICSE,99.8,ISE,80.8,Computer Science in Data Science,8.26,1,0,0,1,3,1.0,1,82.6
+Female,CBSE,70.7,Other state Board,62.2,Mechanical Engineering,8.2,0,0,0,1,5,1.0,1,82.0
+Male,State Board,95.4,CBSE,79.0,Chemical Engineering,7.96,1,1,0,1,5,1.0,1,79.6
+Female,WBBSE,88.4,Other state Board,83.4,Computer Science and Design,7.4,0,1,0,1,1,1.0,0,74.0
+Male,WBBSE,89.5,ISE,79.9,Computer Science and Engineering,8.41,1,0,1,0,5,0.0,0,84.1
+Male,State Board,72.2,Other state Board,80.5,Chemical Engineering,9.28,0,0,0,0,2,1.0,0,92.8
+Male,WBBSE,87.5,WBCHSE,72.9,Computer Science and Engineering,8.18,1,0,0,0,3,0.0,0,81.8
+Male,State Board,75.2,ISE,85.5,Computer Science in Data Science,8.18,1,1,0,0,1,0.0,0,81.8
+Male,ICSE,87.4,WBCHSE,91.4,Electronics and Communication Engineering,8.41,1,0,1,1,1,1.0,0,84.1
+Male,ICSE,98.3,Other state Board,94.7,Information Technology,8.52,1,0,0,1,1,1.0,1,85.19999999999999
+Male,ICSE,85.2,Other state Board,80.7,Information Technology,7.69,0,0,0,1,1,1.0,1,76.9
+Male,State Board,86.6,Other state Board,81.3,Electrical and Electronics Engineering,7.15,0,1,1,0,5,0.0,0,71.5
+Male,ICSE,94.1,ISE,62.8,Mechanical Engineering,7.55,0,1,0,1,5,1.0,1,75.5
+Male,WBBSE,79.4,WBCHSE,79.4,Information Technology,9.34,0,1,0,1,2,0.0,0,93.4
+Male,WBBSE,95.1,Other state Board,81.7,Computer Science in Data Science,8.08,1,0,0,1,1,1.0,0,80.8
+Female,ICSE,72.0,Other state Board,90.5,Electronics and Communication Engineering,9.21,0,1,0,1,1,1.0,1,92.10000000000001
+Female,CBSE,84.5,WBCHSE,87.4,Chemical Engineering,7.67,0,0,0,1,5,1.0,1,76.7
+Male,WBBSE,75.7,Other state Board,80.6,Electronics and Communication Engineering,7.35,1,0,0,1,4,1.0,1,73.5
+Male,CBSE,91.7,WBCHSE,91.9,Chemical Engineering,7.14,1,0,0,0,2,1.0,0,71.39999999999999
+Female,ICSE,82.8,Other state Board,89.8,Electrical Engineering,8.45,1,1,0,1,3,1.0,0,84.5
+Female,State Board,80.2,CBSE,74.7,Computer Science and Engineering,8.82,1,1,1,0,2,1.0,0,88.2
+Female,ICSE,92.7,CBSE,82.1,Electrical and Electronics Engineering,8.88,1,1,1,0,1,1.0,0,88.80000000000001
+Female,CBSE,82.9,Other state Board,86.1,Mechanical Engineering,9.23,0,1,0,0,4,1.0,0,92.30000000000001
+Male,State Board,85.7,Other state Board,63.6,Electrical Engineering,9.02,1,0,0,1,4,1.0,1,90.19999999999999
+Female,CBSE,87.5,Other state Board,87.3,Electronics and Communication Engineering,7.23,1,1,0,0,3,0.0,0,72.30000000000001
+Male,ICSE,95.6,CBSE,94.0,Electrical and Electronics Engineering,8.21,0,1,0,0,5,0.0,0,82.10000000000001
+Male,ICSE,77.6,ISE,84.6,Mechanical Engineering,9.12,0,1,1,0,2,0.0,0,91.19999999999999
+Female,CBSE,79.7,Other state Board,91.5,Computer Science and Design,9.21,1,1,0,0,2,1.0,0,92.10000000000001
+Female,WBBSE,82.0,Other state Board,75.9,Electrical and Electronics Engineering,7.6,0,1,0,1,1,1.0,1,76.0
+Female,WBBSE,70.7,ISE,77.4,Civil Engineering,8.22,0,0,0,0,2,1.0,0,82.2
+Female,CBSE,77.3,CBSE,91.4,Computer Science in AIML,8.92,1,0,0,1,3,1.0,1,89.2
+Female,ICSE,81.0,CBSE,79.8,Electrical Engineering,8.1,0,1,0,1,2,0.0,0,81.0
+Male,CBSE,82.9,ISE,71.8,Mechanical Engineering,7.46,0,0,1,1,4,0.0,0,74.6
+Female,CBSE,76.2,Other state Board,74.8,Electronics and Communication Engineering,9.04,1,0,0,0,4,0.0,0,90.39999999999999
+Male,ICSE,83.6,Other state Board,70.9,Computer Science and Engineering,8.95,0,0,0,1,2,1.0,1,89.5
+Female,ICSE,78.7,Other state Board,62.5,Mechanical Engineering,9.16,1,1,1,0,3,0.0,0,91.6
+Male,State Board,78.6,ISE,86.9,Electrical Engineering,8.23,0,1,1,1,1,1.0,0,82.30000000000001
+Female,CBSE,88.1,ISE,82.6,Chemical Engineering,7.1,1,1,0,1,4,1.0,1,71.0
+Female,State Board,85.5,Other state Board,82.4,Computer Science and Engineering,7.49,0,0,0,1,1,1.0,1,74.9
+Male,ICSE,91.8,CISCE,88.5,Computer Science and Engineering,9.48,0,0,1,1,3,1.0,1,94.80000000000001
+Female,WBBSE,73.2,WBCHSE,65.0,Computer Science and Engineering,7.79,0,0,0,1,4,1.0,1,77.9
+Female,CBSE,99.9,ISE,86.4,Electrical Engineering,9.16,1,0,0,1,3,1.0,1,91.6
+Female,CBSE,77.5,WBCHSE,69.0,Civil Engineering,8.3,0,0,0,1,4,0.0,0,83.0
+Female,WBBSE,83.7,WBCHSE,91.0,Electronics and Communication Engineering,7.11,0,1,0,0,4,1.0,0,71.10000000000001
+Female,ICSE,91.7,CBSE,68.9,Computer Science and Design,8.34,0,1,0,0,2,0.0,0,83.4
+Male,WBBSE,72.4,ISE,80.6,Electronics and Communication Engineering,9.16,1,0,0,1,2,1.0,1,91.6
+Female,WBBSE,70.8,Other state Board,65.1,Electrical and Electronics Engineering,8.64,0,1,0,1,3,0.0,0,86.4
+Male,ICSE,82.9,ISE,87.3,Electrical and Electronics Engineering,8.49,0,1,0,1,2,1.0,1,84.9
+Female,CBSE,84.8,Other state Board,92.8,Electrical Engineering,7.01,0,0,0,1,2,1.0,1,70.1
+Male,ICSE,99.8,CBSE,63.7,Civil Engineering,9.35,0,1,0,0,3,0.0,0,93.5
+Female,State Board,70.6,Other state Board,70.7,Electronics and Communication Engineering,8.43,1,1,0,1,1,1.0,1,84.3
+Male,State Board,91.2,Other state Board,73.3,Electrical and Electronics Engineering,8.49,1,0,0,1,5,1.0,1,84.9
+Male,State Board,80.5,CBSE,68.6,Electronics and Communication Engineering,7.28,0,0,1,1,2,0.0,0,72.8
+Female,CBSE,70.9,ISE,94.8,Electronics and Communication Engineering,8.8,1,0,0,1,1,1.0,0,88.0
+Female,WBBSE,97.0,WBCHSE,88.6,Chemical Engineering,8.24,0,1,0,1,4,1.0,1,82.4
+Female,CBSE,88.3,Other state Board,78.4,Electronics and Communication Engineering,7.61,1,1,0,0,5,0.0,0,76.10000000000001
+Male,WBBSE,88.7,WBCHSE,83.6,Computer Science and Engineering,7.27,0,1,0,1,5,1.0,1,72.69999999999999
+Female,CBSE,85.3,CBSE,76.4,Electronics and Communication Engineering,9.25,0,0,0,1,4,0.0,0,92.5
+Male,State Board,59.0,Other state Board,55.0,Electrical Engineering,7.93,0,1,1,1,3,0.0,1,79.3
+Female,State Board,87.1,CBSE,87.0,Computer Science and Design,8.68,1,0,0,1,5,1.0,1,86.8
+Male,State Board,96.5,Other state Board,80.9,Information Technology,8.27,1,0,0,0,1,1.0,0,82.69999999999999
+Male,State Board,91.0,Other state Board,86.1,Electrical Engineering,8.82,0,1,0,1,2,1.0,1,88.2
+Female,CBSE,81.8,ISE,63.5,Electronics and Communication Engineering,7.04,1,1,1,0,4,1.0,0,70.4
+Male,State Board,73.0,Other state Board,84.0,Computer Science and Engineering,7.12,0,1,0,0,3,1.0,0,71.2
+Female,ICSE,76.4,Other state Board,66.2,Computer Science and Engineering,8.66,1,1,0,0,2,1.0,0,86.6
+Female,ICSE,83.9,WBCHSE,93.5,Chemical Engineering,8.13,0,1,1,1,5,0.0,0,81.30000000000001
+Female,State Board,90.5,Other state Board,83.1,Computer Science in Data Science,8.27,1,0,1,0,3,1.0,0,82.69999999999999
+Female,ICSE,94.0,CBSE,74.7,Civil Engineering,8.71,0,0,1,0,4,0.0,0,87.10000000000001
+Male,CBSE,85.9,ISE,76.9,Electronics and Communication Engineering,8.85,1,1,0,1,5,1.0,1,88.5
+Female,WBBSE,98.5,WBCHSE,69.8,Computer Science and Engineering,8.47,0,0,0,1,2,1.0,0,84.7
+Male,ICSE,90.6,Other state Board,64.2,Computer Science and Engineering,7.09,0,1,1,0,1,0.0,0,70.9
+Female,CBSE,97.2,CBSE,96.4,Computer Science and Engineering,8.26,1,1,1,1,3,1.0,0,82.6
+Female,WBBSE,89.2,WBCHSE,89.7,Computer Science and Design,8.33,1,0,1,0,2,0.0,0,83.3
+Female,State Board,97.6,Other state Board,87.5,Electrical and Electronics Engineering,9.17,1,1,0,0,1,0.0,0,91.7
+Male,CBSE,84.2,Other state Board,88.0,Computer Science and Design,8.11,1,1,0,1,4,1.0,1,81.1
+Female,CBSE,82.8,CBSE,61.9,Computer Science in AIML,8.57,1,0,0,1,2,1.0,1,85.7
+Female,CBSE,72.6,Other state Board,62.6,Electronics and Communication Engineering,8.04,0,0,0,1,5,1.0,0,80.39999999999999
+Female,State Board,91.0,ISE,91.8,Chemical Engineering,7.39,1,1,0,0,1,1.0,0,73.89999999999999
+Female,CBSE,82.8,ISE,85.0,Computer Science in Data Science,7.51,0,0,1,1,4,0.0,0,75.1
+Male,State Board,75.4,ISE,83.1,Computer Science in Data Science,7.77,0,1,0,1,4,1.0,1,77.69999999999999
+Male,ICSE,90.8,ISE,74.7,Electronics and Communication Engineering,7.32,1,1,0,0,4,0.0,0,73.2
+Male,State Board,93.0,Other state Board,66.4,Mechanical Engineering,7.4,0,1,0,1,4,0.0,0,74.0
+Female,ICSE,78.3,ISE,92.5,Computer Science and Engineering,8.01,1,1,0,0,2,0.0,0,80.1
+Female,ICSE,74.1,CBSE,80.1,Electronics and Communication Engineering,7.12,1,0,0,1,4,1.0,1,71.2
+Male,State Board,78.4,ISE,81.6,Computer Science and Engineering,8.77,1,0,0,1,1,1.0,1,87.69999999999999
+Female,State Board,70.5,WBCHSE,63.9,Electronics and Communication Engineering,7.54,1,1,0,1,5,1.0,1,75.4
+Male,State Board,86.7,WBCHSE,71.4,Electronics and Communication Engineering,8.82,1,1,0,1,1,1.0,1,88.2
+Male,CBSE,95.0,CBSE,93.2,Computer Science in AIML,7.21,0,0,0,1,4,1.0,1,72.1
+Male,WBBSE,84.5,Other state Board,67.0,Electrical and Electronics Engineering,7.2,1,1,1,0,5,0.0,0,72.0
+Male,ICSE,76.8,ISE,82.0,Computer Science and Engineering,7.79,1,0,0,1,4,1.0,1,77.9
+Male,ICSE,90.8,CBSE,92.0,Computer Science and Engineering,9.94,1,0,1,1,4,0.0,1,99.39999999999999
+Female,WBBSE,73.1,CBSE,66.3,Computer Science and Engineering,8.83,1,0,0,1,2,1.0,1,88.3
+Female,CBSE,93.2,CBSE,89.0,Civil Engineering,8.13,1,1,0,1,5,1.0,1,81.30000000000001
+Female,State Board,81.8,ISE,74.5,Computer Science and Engineering,9.39,0,0,0,1,1,1.0,1,93.9
+Female,WBBSE,86.5,WBCHSE,93.4,Computer Science and Design,8.8,0,0,1,1,5,1.0,0,88.0
+Male,CBSE,85.5,Other state Board,62.3,Electrical and Electronics Engineering,7.99,0,0,1,1,5,1.0,0,79.9
+Female,WBBSE,86.6,Other state Board,71.3,Information Technology,7.65,1,0,0,1,3,1.0,1,76.5
+Male,ICSE,99.2,CBSE,73.4,Information Technology,8.3,1,1,0,1,5,0.0,0,83.0
+Male,ICSE,85.1,WBCHSE,87.3,Electronics and Communication Engineering,7.9,1,0,1,1,5,0.0,0,79.0
+Male,WBBSE,98.9,WBCHSE,78.6,Computer Science and Engineering,9.55,0,0,0,1,3,1.0,0,95.5
+Female,ICSE,95.0,ISC,93.0,Mechanical Engineering,8.2,1,0,1,1,3,1.0,1,82.0
+Female,ICSE,84.3,CBSE,90.0,Computer Science in Data Science,7.0,0,1,0,1,4,1.0,1,70.0
+Female,ICSE,90.3,ISE,83.9,Chemical Engineering,9.36,1,1,0,1,1,1.0,1,93.6
+Female,State Board,87.3,Other state Board,60.3,Mechanical Engineering,7.17,0,0,0,1,2,1.0,1,71.7
+Male,ICSE,74.6,Other state Board,88.0,Computer Science in Data Science,9.08,1,0,0,1,1,1.0,1,90.8
+Female,WBBSE,82.4,Other state Board,92.5,Mechanical Engineering,9.32,1,1,0,1,4,1.0,1,93.2
+Female,ICSE,85.0,CBSE,87.7,Computer Science and Engineering,8.2,1,1,0,1,5,1.0,1,82.0
+Female,CBSE,80.2,WBCHSE,92.4,Mechanical Engineering,8.94,1,0,0,1,5,1.0,1,89.39999999999999
+Male,CBSE,84.0,ISE,83.9,Information Technology,8.97,1,1,0,1,5,1.0,1,89.7
+Male,CBSE,75.9,Other state Board,85.6,Mechanical Engineering,9.59,0,1,0,1,2,1.0,1,95.9
+Female,ICSE,96.0,ISE,94.0,Information Technology,9.25,1,0,0,1,1,1.0,1,92.5
+Male,CBSE,89.3,CBSE,81.4,Information Technology,9.2,0,1,1,1,2,1.0,1,92.0
+Male,CBSE,99.0,Other state Board,84.0,Chemical Engineering,7.77,0,1,0,1,5,1.0,1,77.69999999999999
+Male,CBSE,85.2,CBSE,90.1,Electrical and Electronics Engineering,7.0,0,1,0,1,4,1.0,1,70.0
+Male,WBBSE,90.0,WBCHSE,89.0,Computer Science and Engineering,9.6,1,1,1,1,2,1.0,1,96.0
+Female,WBBSE,74.0,WBCHSE,81.4,Electrical Engineering,7.14,0,1,1,0,5,1.0,0,71.39999999999999
+Female,CBSE,81.2,CBSE,71.9,Information Technology,7.17,0,0,0,1,5,1.0,1,71.7
+Male,CBSE,80.3,Other state Board,87.7,Electronics and Communication Engineering,9.09,1,0,0,1,5,1.0,1,90.9
+Male,ICSE,97.6,CBSE,85.1,Civil Engineering,7.11,1,0,1,0,2,1.0,0,71.10000000000001
+Female,State Board,87.2,MSBTE,82.4,Electronic Engineering,7.8,0,1,0,0,2,1.0,0,78.0
+Male,ICSE,89.3,WBCHSE,90.7,Information Technology,9.49,1,0,1,1,5,0.0,0,94.9
+Male,State Board,86.7,CBSE,72.0,Computer Science and Engineering,7.27,1,1,0,1,4,1.0,1,72.69999999999999
+Female,CBSE,89.0,ISE,93.8,Information Technology,8.33,1,1,1,1,3,1.0,0,83.3
+Male,State Board,85.2,CBSE,88.2,Computer Science and Engineering,8.02,1,0,0,1,5,1.0,1,80.19999999999999
+Female,ICSE,88.0,WBCHSE,64.6,Electronics and Communication Engineering,9.37,1,0,1,0,2,1.0,0,93.69999999999999
+Female,WBBSE,73.0,WBCHSE,75.9,Electronics and Communication Engineering,7.1,0,1,0,1,3,1.0,1,71.0
+Female,State Board,96.0,ISE,85.6,Electronics and Communication Engineering,7.19,1,0,1,1,3,0.0,0,71.9
+Female,WBBSE,78.4,WBCHSE,66.8,Computer Science and Engineering,8.03,0,0,0,0,2,0.0,0,80.3
+Female,CBSE,71.7,CBSE,74.4,Mechanical Engineering,8.43,0,0,0,1,1,0.0,0,84.3
+Female,CBSE,93.0,ISE,62.5,Electrical Engineering,9.01,1,0,0,1,2,1.0,1,90.1
+Male,CBSE,72.8,Other state Board,94.7,Electrical Engineering,8.09,0,1,0,1,3,1.0,1,80.9
+Male,State Board,96.8,Other state Board,65.8,Electrical Engineering,7.58,0,1,0,0,2,0.0,0,75.8
+Female,ICSE,93.2,CBSE,82.0,Computer Science in AIML,8.4,1,1,1,0,1,0.0,0,84.0
+Female,ICSE,84.7,CBSE,67.1,Electronics and Communication Engineering,8.62,1,0,0,0,2,0.0,0,86.19999999999999
+Female,WBBSE,70.1,Other state Board,82.2,Computer Science in Data Science,8.11,0,1,1,0,3,1.0,0,81.1
+Male,CBSE,92.8,Other state Board,68.2,Electronics and Communication Engineering,8.24,1,1,0,1,3,1.0,1,82.4
+Male,ICSE,97.2,CBSE,78.6,Electrical and Electronics Engineering,8.69,1,0,1,0,1,0.0,0,86.89999999999999
+Male,ICSE,99.5,CBSE,77.5,Electronics and Communication Engineering,7.07,1,1,1,1,2,0.0,0,70.7
+Female,ICSE,99.3,ISE,73.8,Computer Science in AIML,7.56,0,1,0,1,3,1.0,1,75.6
+Male,State Board,81.7,ISE,84.4,Computer Science and Engineering,7.75,1,1,1,1,4,0.0,0,77.5
+Female,State Board,99.5,ISE,83.2,Civil Engineering,7.68,0,0,1,1,5,0.0,0,76.8
+Female,ICSE,77.1,WBCHSE,66.9,Information Technology,7.16,0,1,0,0,5,1.0,0,71.6
+Male,State Board,80.8,CBSE,85.3,Mechanical Engineering,8.94,0,0,1,1,1,1.0,0,89.39999999999999
+Female,CBSE,88.5,WBCHSE,81.8,Civil Engineering,9.21,1,1,1,0,5,1.0,0,92.10000000000001
+Male,State Board,90.8,CBSE,62.2,Computer Science and Engineering,7.67,1,1,0,1,4,0.0,0,76.7
+Female,State Board,83.1,ISE,74.5,Computer Science and Engineering,9.39,1,1,0,1,2,1.0,1,93.9
+Female,CBSE,90.0,ISE,86.4,Computer Science and Engineering,7.94,1,0,0,1,3,1.0,1,79.4
+Female,CBSE,71.5,CBSE,70.3,Computer Science and Engineering,8.31,0,0,0,1,2,1.0,1,83.10000000000001
+Male,WBBSE,95.6,ISE,68.7,Information Technology,9.26,1,0,0,1,2,1.0,1,92.6
+Male,ICSE,94.7,CBSE,67.2,Information Technology,9.47,1,0,0,1,2,1.0,0,94.7
+Male,CBSE,80.5,WBCHSE,83.1,Computer Science and Engineering,7.41,1,0,0,1,4,0.0,0,74.1
+Female,ICSE,80.8,ISE,73.5,Computer Science in AIML,8.16,1,1,1,1,3,1.0,0,81.6
+Male,WBBSE,92.5,WBCHSE,93.0,Electronics and Communication and Engineeing,8.25,1,0,0,1,3,1.0,0,82.5
+Male,State Board,90.1,CBSE,92.3,Electronics and Communication Engineering,7.99,1,0,0,1,2,1.0,1,79.9
+Female,WBBSE,86.6,WBCHSE,76.0,Information Technology,8.17,1,0,0,1,5,1.0,1,81.7
+Male,CBSE,83.2,CBSE,69.5,Chemical Engineering,7.12,0,1,0,0,5,0.0,0,71.2
+Male,State Board,57.7,Other state Board,56.7,Computer Science and Engineering,8.26,0,1,0,1,3,1.0,0,82.6
+Male,State Board,77.1,ISE,92.7,Chemical Engineering,9.05,1,1,0,1,2,0.0,0,90.5
+Female,State Board,91.1,CBSE,91.1,Electrical and Electronics Engineering,8.08,1,1,1,0,4,0.0,0,80.8
+Male,State Board,95.8,Other state Board,72.1,Electronics and Communication Engineering,9.37,0,0,0,1,1,1.0,1,93.69999999999999
+Female,CBSE,71.6,Other state Board,63.3,Information Technology,9.36,1,1,0,1,1,1.0,1,93.6
+Male,State Board,99.7,ISE,93.3,Chemical Engineering,8.3,1,1,1,0,2,0.0,0,83.0
+Female,State Board,79.9,ISE,79.0,Computer Science and Engineering,9.14,1,0,1,1,1,0.0,0,91.4
+Male,ICSE,75.0,CBSE,70.0,Electronics and Communication and Engineeing,8.0,0,1,1,1,2,1.0,1,80.0
+Female,ICSE,86.3,Other state Board,85.1,Electrical Engineering,9.13,1,1,0,1,1,1.0,1,91.30000000000001
+Male,ICSE,82.0,Other state Board,71.7,Chemical Engineering,8.15,0,1,1,0,5,0.0,0,81.5
+Female,CBSE,82.4,Other state Board,72.3,Computer Science and Engineering,7.59,1,0,0,1,3,1.0,0,75.9
+Male,CBSE,79.8,CBSE,88.8,Electronics and Communication Engineering,9.07,1,1,0,1,5,1.0,1,90.7
+Male,State Board,61.0,Other state Board,53.0,Computer Science and Engineering,7.1,1,1,1,1,3,1.0,0,71.0
+Female,CBSE,71.2,Other state Board,81.1,Electronics and Communication Engineering,8.68,1,1,0,1,3,1.0,1,86.8
+Male,State Board,80.4,WBCHSE,92.1,Electrical Engineering,8.66,0,1,0,1,1,1.0,1,86.6
+Female,CBSE,72.0,ISE,84.8,Computer Science in Data Science,7.5,1,0,1,0,3,1.0,0,75.0
+Male,CBSE,72.2,Other state Board,88.6,Electronics and Communication Engineering,7.85,1,1,0,1,5,1.0,1,78.5
+Female,CBSE,88.2,CBSE,78.1,Computer Science in Data Science,7.78,1,1,1,1,4,1.0,0,77.8
+Male,State Board,73.8,ISE,77.6,Electrical and Electronics Engineering,8.22,0,1,1,0,2,1.0,0,82.2
+Female,ICSE,86.8,CBSE,71.6,Information Technology,8.15,1,1,0,0,2,0.0,0,81.5
+Female,CBSE,78.8,CBSE,60.9,Electronics and Communication Engineering,8.06,1,1,0,0,1,0.0,0,80.60000000000001
+Male,State Board,96.5,ISE,78.4,Computer Science and Engineering,7.71,1,1,0,1,1,0.0,0,77.1
+Male,State Board,88.8,CBSE,69.3,Computer Science and Engineering,8.02,0,1,0,1,4,1.0,1,80.19999999999999
+Male,WBBSE,85.4,WBCHSE,75.6,Electrical Engineering,9.16,1,0,0,1,1,1.0,1,91.6
+Female,ICSE,78.2,ISE,74.7,Computer Science and Engineering,8.65,1,1,0,1,5,1.0,1,86.5
+Female,State Board,80.0,Other state Board,62.3,Computer Science in Data Science,8.68,0,0,0,1,2,1.0,1,86.8
+Female,WBBSE,80.8,WBCHSE,85.4,Civil Engineering,8.41,1,1,0,0,3,1.0,0,84.1
+Female,WBBSE,97.9,WBCHSE,63.1,Chemical Engineering,9.3,1,1,1,1,1,0.0,0,93.0
+Male,CBSE,87.5,WBCHSE,77.8,Mechanical Engineering,8.01,0,0,1,1,5,1.0,0,80.1
+Male,ICSE,79.9,ISE,82.9,Computer Science and Engineering,8.45,1,1,0,1,1,1.0,1,84.5
+Female,ICSE,86.2,CBSE,76.8,Electrical and Electronics Engineering,9.12,0,1,0,0,2,1.0,0,91.19999999999999
+Male,ICSE,79.6,ISE,68.0,Electrical and Electronics Engineering,7.92,0,0,1,0,4,1.0,0,79.2
+Female,WBBSE,98.4,Other state Board,72.6,Computer Science in AIML,9.24,1,0,0,1,1,1.0,1,92.4
+Female,ICSE,94.1,WBCHSE,68.6,Computer Science in AIML,8.99,1,1,1,1,2,0.0,0,89.9
+Female,WBBSE,70.0,ISE,66.3,Electrical Engineering,7.24,0,0,0,1,4,1.0,1,72.4
+Male,State Board,85.7,CBSE,63.1,Civil Engineering,7.14,0,1,0,0,5,0.0,0,71.39999999999999
+Female,WBBSE,84.3,ISE,86.1,Mechanical Engineering,8.35,0,1,0,1,3,1.0,1,83.5
+Female,State Board,97.5,ISE,69.4,Information Technology,8.93,1,1,0,1,2,1.0,0,89.3
+Male,ICSE,91.1,CBSE,65.6,Computer Science and Engineering,8.8,1,1,0,1,1,1.0,1,88.0
+Female,WBBSE,83.7,CBSE,79.9,Computer Science in Data Science,9.29,1,1,1,0,2,0.0,0,92.89999999999999
+Female,WBBSE,73.6,CBSE,84.2,Computer Science and Engineering,8.4,1,0,0,1,2,1.0,1,84.0
+Male,CBSE,99.9,CBSE,65.1,Computer Science in AIML,9.11,1,1,0,1,2,1.0,1,91.1
+Male,CBSE,71.1,CBSE,81.1,Computer Science in AIML,7.65,1,1,0,1,2,1.0,1,76.5
+Female,State Board,94.3,Other state Board,90.9,Computer Science in Data Science,7.86,1,1,0,1,4,1.0,1,78.60000000000001
+Female,WBBSE,74.4,WBCHSE,82.3,Civil Engineering,7.22,0,1,0,1,3,1.0,1,72.2
+Female,State Board,82.0,Other state Board,83.0,Computer Science and Engineering,6.5,1,1,0,1,4,1.0,0,65.0
+Male,State Board,83.5,ISE,72.5,Computer Science and Engineering,8.62,1,0,0,1,5,1.0,1,86.19999999999999
+Male,WBBSE,88.6,WBCHSE,82.6,Information Technology,9.32,1,0,0,1,3,1.0,1,93.2
+Male,State Board,73.8,BSEB,70.3,Electrical Engineering,8.89,1,1,0,1,4,1.0,0,88.9
+Male,ICSE,98.8,ISE,85.3,Electronics and Communication Engineering,7.16,1,0,0,1,2,1.0,1,71.6
+Female,State Board,83.9,CBSE,74.9,Electronics and Communication Engineering,8.15,0,1,0,1,2,1.0,1,81.5
+Male,ICSE,78.7,Other state Board,60.9,Electronics and Communication Engineering,7.5,1,1,0,1,2,1.0,1,75.0
+Male,CBSE,45.0,WBCHSE,45.0,Computer Science and Engineering,5.5,0,1,0,1,3,1.0,1,55.0
+Male,WBBSE,70.0,WBCHSE,82.0,Computer Science and Design,8.3,1,0,0,1,3,,1,83.0
+Male,WBBSE,82.3,ISE,68.1,Chemical Engineering,8.26,0,0,1,1,2,1.0,0,82.6
+Male,ICSE,82.4,ISE,82.9,Information Technology,8.06,1,0,0,0,5,1.0,0,80.60000000000001
+Female,CBSE,74.8,ISE,84.9,Computer Science and Engineering,7.42,1,0,0,1,1,1.0,1,74.2
+Male,CBSE,94.6,ISE,84.9,Computer Science in Data Science,8.68,1,1,1,0,2,1.0,0,86.8
+Male,CBSE,86.4,ISE,72.3,Electronics and Communication Engineering,9.35,1,1,1,0,5,0.0,0,93.5
+Female,WBBSE,88.6,WBCHSE,65.8,Computer Science in AIML,7.37,0,1,1,0,2,1.0,0,73.7
+Male,State Board,97.8,ISE,94.2,Civil Engineering,9.19,1,0,0,1,5,1.0,1,91.89999999999999
+Female,ICSE,88.8,CBSE,89.1,Computer Science and Engineering,8.34,1,1,0,0,1,1.0,0,83.4
+Female,State Board,86.7,CBSE,86.7,Computer Science and Engineering,7.77,1,0,0,1,2,1.0,1,77.69999999999999
+Male,CBSE,83.5,CBSE,61.1,Electrical Engineering,8.85,0,0,0,1,1,1.0,1,88.5
+Male,ICSE,99.8,ISE,75.4,Electronics and Communication Engineering,7.89,1,1,1,1,5,1.0,0,78.89999999999999
+Male,WBBSE,94.2,CBSE,90.0,Electronics and Communication Engineering,7.89,1,0,0,0,3,1.0,0,78.89999999999999
